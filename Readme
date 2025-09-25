@@ -1,0 +1,4 @@
+Compile:
+    Usage: make
+Execute:
+    Usage: ./Project2 [input] [output]
